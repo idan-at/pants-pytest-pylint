@@ -1,0 +1,10 @@
+[GLOBAL]
+pants_version = "2.15.0"
+backend_packages = [
+  "pants.backend.python",
+  "pants.backend.python.lint.yapf",
+  "pants.backend.python.lint.pylint",
+]
+
+[anonymous-telemetry]
+enabled = false

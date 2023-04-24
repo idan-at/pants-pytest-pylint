@@ -1,0 +1,7 @@
+.pants.d/
+.pids/
+dist/
+.docker/
+.DS_Store
+.labels
+__pycache__
